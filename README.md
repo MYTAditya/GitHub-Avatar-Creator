@@ -9,3 +9,6 @@ This website is good for Android and Windows operating systems as this website i
 This website has some changes from the original one, like it's well designed and contains a 'Download Avatar' button which will download the avatar as `github-avatar.png`.
 You can <a href="https://github.com/MYTAditya/GitHub-Avatar-Creator/releases/tag/1.1.0" target="DL">download</a> and play it offline without any problems.
 You can also play it <a href="https://github-avatar-creator.vercel.app/" target="on">online</a>.
+
+### NOTE
+**THIS PROJECT IS NOT AFFILIATED WITH GITHUB OR GITHUB INC.! THIS IS FANMADE PROJECT BY MASTERED YT ADITYA.**
