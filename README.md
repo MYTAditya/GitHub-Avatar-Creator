@@ -1,6 +1,6 @@
 # GitHub Avatar Creator
 
-<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MYTAditya/GitHub-Avatar-Creator?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/MYTAditya/GitHub-Avatar-Creator?color=%23a9e43a"> <img alt="GitHub License" src="https://img.shields.io/github/license/MYTAditya/GitHub-Avatar-Creator?color=blue"> <img alt="GitHub top language" src="https://img.shields.io/badge/language-HTML-tomato">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/MYTAditya/GitHub-Avatar-Creator?color=%238a2be2&style=for-the-badge"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/MYTAditya/GitHub-Avatar-Creator?color=%23a9e43a&style=for-the-badge"> <img alt="GitHub License" src="https://img.shields.io/github/license/MYTAditya/GitHub-Avatar-Creator?color=blue&style=for-the-badge"> <img alt="GitHub top language" src="https://img.shields.io/badge/language-HTML-tomato?style=for-the-badge">
 
 [![](https://img.youtube.com/vi/pimFpO7BPQo/0.jpg)](https://youtu.be/pimFpO7BPQo?si=Eo7nx_Bc_IpPhwq-)
 
