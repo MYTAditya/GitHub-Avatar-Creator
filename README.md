@@ -1,11 +1,11 @@
 # GitHub Avatar Creator
 
-![](https://img.shields.io/github/created-at/MYTAditya/GitHub-Avatar-Creator?color=%238a2be2&style=for-the-badge&logo=GitHub)
+![](https://img.shields.io/github/created-at/MYTAditya/GitHub-Avatar-Creator?color=%23561BC5&style=for-the-badge&logo=GitHub)
 ![](https://img.shields.io/github/v/release/MYTAditya/GitHub-Avatar-Creator?color=%23a9e43a&style=for-the-badge&logo=GitHub)
-![](https://img.shields.io/github/license/MYTAditya/GitHub-Avatar-Creator?color=blue&style=for-the-badge&logo=GitHub)
+![](https://img.shields.io/github/license/MYTAditya/GitHub-Avatar-Creator?color=FE3BA4&style=for-the-badge&logo=GitHub)
 ![](https://img.shields.io/github/languages/top/MYTAditya/GitHub-Avatar-Creator?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/github/downloads/MYTAditya/GitHub-Avatar-Creator/total?style=for-the-badge&color=01c45b&logo=GitHub)
-![](https://img.shields.io/github/stars/MYTAditya/GitHub-Avatar-Creator?style=for-the-badge&logo=GitHub&color=FF681A)
+![](https://img.shields.io/github/stars/MYTAditya/GitHub-Avatar-Creator?style=for-the-badge&logo=GitHub&color=31F6E1)
 ![](https://visitor-badge.laobi.icu/badge?page_id=MYTAditya.GitHub-Avatar-Creator&left_text=VISITORS&logo=github&radius=0)
 
 [![](https://img.youtube.com/vi/pimFpO7BPQo/0.jpg)](https://youtu.be/pimFpO7BPQo?si=Eo7nx_Bc_IpPhwq-)
