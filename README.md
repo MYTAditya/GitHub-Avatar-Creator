@@ -8,8 +8,6 @@
 ![](https://img.shields.io/github/stars/MYTAditya/GitHub-Avatar-Creator?style=for-the-badge&logo=GitHub&color=31F6E1)
 ![](https://visitor-badge.laobi.icu/badge?page_id=MYTAditya.GitHub-Avatar-Creator&left_text=VISITORS&logo=github&radius=0)
 
-[![](https://img.youtube.com/vi/pimFpO7BPQo/0.jpg)](https://youtu.be/pimFpO7BPQo?si=Eo7nx_Bc_IpPhwq-)
-
 The standalone HTML Website of Andi Playground (orentol)'s project on codepen.io which is <a href="https://codepen.io/orentol/pen/bPxBNj" target="fork">Avatar generator [github like]</a> which is a fork of <a href="https://codepen.io/Profesor08/pen/zJXrBq" target="original">Profesor08's project</a> on the same website with the same name.
 This website is good for Android and Windows operating systems as this website is standalone.
 This website has some changes from the original one, like it's well designed and contains a 'Download Avatar' button which will download the avatar as `github-avatar.png`.
